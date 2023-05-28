@@ -1,0 +1,21 @@
+# Ignore virtual environment files
+venv/
+.venv/
+
+# Ignore editor and IDE files
+.vscode/
+.idea/
+
+# Ignore compiled Python files
+*.pyc
+
+# Ignore local development files
+*.env
+*.log
+
+# Ignore version control system files
+.git/
+.gitignore
+
+# Ignore any other files or directories specific to your project
+

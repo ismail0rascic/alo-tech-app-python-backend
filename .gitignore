@@ -1,0 +1,31 @@
+# Byte-compiled / optimized Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables
+.env
+
+# Flask specific
+instance/
+*.egg-info/
+.bak
+.swo
+.swp
+.swn
+
+# Logs
+*.log
+log/
+logs/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+venv/
+.cache
+ vscode
+.vscode/
+.vscode/
