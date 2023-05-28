@@ -8,7 +8,7 @@ This is just backend with all same options like on provided link but instead of 
 
 
 <h3>GoogleCloud</h3>
-  App is depoloyed on Google Cloud Run, to acces folow next links :
+  App is depoloyed on Google Cloud Run, to acces folow next link :
   <li>SERVER: https://python-server-5fjjz6ugna-ue.a.run.app/</li>
   
   
@@ -22,9 +22,11 @@ This is just backend with all same options like on provided link but instead of 
    <ul>
     <li>python -m venv venv</li>
     <li>.\venv\Scripts\activate</li>
-    <li>pip install -r requirements.txt<li>
+    <li>pip install -r requirements.txt</li>
    </ul>
 <li>Start app</li>
+ <ul>
     <li>For development mode run : python app.py (default port 5000)</li>
     <li>For production mode run: python wsgi.py (default port 8080)</li>   
-<ol>
+ </ul>
+  <ol>
